@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/my-wp/static/css/main.9510d68b.css",
+    "main.js": "/my-wp/static/js/main.fcf2c611.js",
+    "static/media/apple-w.png": "/my-wp/static/media/apple-w.16f542016ea11d6a188f.png",
+    "static/media/galleria.png": "/my-wp/static/media/galleria.813ef7655fa1b235fc04.png",
+    "static/media/photosnap.png": "/my-wp/static/media/photosnap.47600356128f90ba6c81.png",
+    "static/media/room.png": "/my-wp/static/media/room.35d6a10392bda273288e.png",
+    "static/media/bookmark.png": "/my-wp/static/media/bookmark.7fa351adbff2868a8859.png",
+    "static/media/mariah-hewines-wbVgvKAqCnY-unsplash.jpg": "/my-wp/static/media/mariah-hewines-wbVgvKAqCnY-unsplash.20e49abba90a9adc70f3.jpg",
+    "static/media/fyloLP.jpg": "/my-wp/static/media/fyloLP.8fffd77f4847c168b296.jpg",
+    "static/media/react-svgrepo-com.svg": "/my-wp/static/media/react-svgrepo-com.fdd3331d261ad6d5e1c92448737aa2aa.svg",
+    "static/media/styled-svgrepo-com.svg": "/my-wp/static/media/styled-svgrepo-com.8428b4dcffc805e3c70227809af2947d.svg",
+    "static/media/redux-svgrepo-com.svg": "/my-wp/static/media/redux-svgrepo-com.609190d142776d97540d56376fce6a2c.svg",
+    "static/media/html-5.svg": "/my-wp/static/media/html-5.fe296947d8d83d0d645adbea3115b8a8.svg",
+    "index.html": "/my-wp/index.html",
+    "static/media/js.svg": "/my-wp/static/media/js.b879f838faf1cb951d1c2230fd933a39.svg",
+    "static/media/css3-svgrepo-com.svg": "/my-wp/static/media/css3-svgrepo-com.9882e252f3baf8b8d57642a1384d8ba3.svg",
+    "main.9510d68b.css.map": "/my-wp/static/css/main.9510d68b.css.map",
+    "main.fcf2c611.js.map": "/my-wp/static/js/main.fcf2c611.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9510d68b.css",
+    "static/js/main.fcf2c611.js"
+  ]
+}
